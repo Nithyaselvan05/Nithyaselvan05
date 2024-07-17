@@ -1,4 +1,2 @@
-* 👋 Hi, I’m Nithyaselvan05.
-* 👀 I’m interested Software development.
-* 🌱 I’m currently learning ML/DL and App Development.
-
+* 👋 Hi, I’m Nithyaselvan.
+* 👀 I’m a software engineer.
